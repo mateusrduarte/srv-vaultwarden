@@ -1,0 +1,14 @@
+{
+  "name": "srv-vaultwarden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.1.0"
+  }
+}
